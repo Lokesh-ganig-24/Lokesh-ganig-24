@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am a software developer
+Full Stack Developer specializing in Java, Spring Boot, and React.
+Experienced in building end-to-end web applications with REST APIs and database integration.
 
 
 ## 🌐 Socials:
